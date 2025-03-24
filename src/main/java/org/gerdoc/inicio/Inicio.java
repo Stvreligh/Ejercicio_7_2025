@@ -31,6 +31,7 @@ public class Inicio
         Ejecutable ejecutable = null;
         Historiales historiales = null;
         historiales = Historial.getInstance( );
+        System.out.println("Hola Emmanuel");
         while( flag )
         {
             ejecutable = null;
@@ -45,10 +46,10 @@ public class Inicio
                     ejecutable = Ventana.getInstance( );
                     break;
                 case 3:
-                    ejecutable= alberto.vista.Consola.getInstance();
+                    ejecutable= Emmanuel.vista.Consola.getInstance();
                     break;
                 case 4:
-                    ejecutable= alberto.vista.Ventana.getInstance();
+                    ejecutable= Emmanuel.vista.Ventana.getInstance();
                     break;
                 case 5:
                     historiales.imprimir();

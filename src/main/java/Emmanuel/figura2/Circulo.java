@@ -1,6 +1,6 @@
-package alberto.figura2;
+package Emmanuel.figura2;
 
-import alberto.figura.Circunferencia;
+import Emmanuel.figura.Circunferencia;
 
 public class Circulo extends Circunferencia {
 

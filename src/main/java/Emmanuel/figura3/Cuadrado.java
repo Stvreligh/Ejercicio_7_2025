@@ -1,7 +1,7 @@
-package alberto.figura3;
+package Emmanuel.figura3;
 
-import alberto.util.ReadUtil;
-import alberto.vista.Menu;
+import Emmanuel.util.ReadUtil;
+import Emmanuel.vista.Menu;
 import org.gerdoc.model.figura.Figura;
 
 public class Cuadrado extends Figura

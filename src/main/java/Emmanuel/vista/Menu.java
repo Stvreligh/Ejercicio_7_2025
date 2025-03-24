@@ -1,4 +1,4 @@
-package alberto.vista;
+package Emmanuel.vista;
 
 import org.gerdoc.model.figura.Figura;
 

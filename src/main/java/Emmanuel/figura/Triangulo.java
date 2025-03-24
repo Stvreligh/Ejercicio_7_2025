@@ -1,7 +1,7 @@
-package alberto.figura;
+package Emmanuel.figura;
 
-import alberto.util.ReadUtil;
-import alberto.vista.Menu;
+import Emmanuel.util.ReadUtil;
+import Emmanuel.vista.Menu;
 import org.gerdoc.model.figura.Figura;
 
 public abstract class Triangulo extends Figura

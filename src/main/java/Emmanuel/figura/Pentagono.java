@@ -1,4 +1,4 @@
-package alberto.figura;
+package Emmanuel.figura;
 
 public class Pentagono extends Poligonos {
 

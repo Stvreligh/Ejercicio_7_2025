@@ -1,15 +1,15 @@
-package alberto.vista;
+package Emmanuel.vista;
 
-import alberto.figura.Equilatero;
-import alberto.figura.Pentagono;
-import alberto.figura2.Circulo;
-import alberto.figura2.Escaleno;
-import alberto.figura2.Isosceles;
-import alberto.figura3.Cuadrado;
-import alberto.figura3.Hexagono;
-import alberto.figura3.Octagono;
-import alberto.figura3.Rectangulo;
-import alberto.util.ReadUtil;
+import Emmanuel.figura.Equilatero;
+import Emmanuel.figura.Pentagono;
+import Emmanuel.figura2.Circulo;
+import Emmanuel.figura2.Escaleno;
+import Emmanuel.figura2.Isosceles;
+import Emmanuel.figura3.Cuadrado;
+import Emmanuel.figura3.Hexagono;
+import Emmanuel.figura3.Octagono;
+import Emmanuel.figura3.Rectangulo;
+import Emmanuel.util.ReadUtil;
 import org.gerdoc.historial.Historiales;
 import org.gerdoc.model.figura.Figura;
 import org.gerdoc.vista.Ejecutable;

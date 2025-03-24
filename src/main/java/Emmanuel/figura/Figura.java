@@ -1,6 +1,6 @@
-package alberto.figura;
+package Emmanuel.figura;
 
-import alberto.vista.SolicitaDatos;
+import Emmanuel.vista.SolicitaDatos;
 
 public abstract class Figura implements SolicitaDatos {
     public Figura()

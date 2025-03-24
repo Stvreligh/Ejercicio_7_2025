@@ -1,7 +1,7 @@
-package alberto.figura2;
+package Emmanuel.figura2;
 
-import alberto.util.ReadUtil;
-import alberto.vista.Menu;
+import Emmanuel.util.ReadUtil;
+import Emmanuel.vista.Menu;
 
 public class Escaleno extends Isosceles
 {

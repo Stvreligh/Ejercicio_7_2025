@@ -1,4 +1,4 @@
-package alberto.figura3;
+package Emmanuel.figura3;
 
 public class Octagono extends Hexagono {
     public Octagono() {

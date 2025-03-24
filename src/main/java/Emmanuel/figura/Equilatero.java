@@ -1,7 +1,7 @@
-package alberto.figura;
+package Emmanuel.figura;
 
-import alberto.util.ReadUtil;
-import alberto.vista.Menu;
+import Emmanuel.util.ReadUtil;
+import Emmanuel.vista.Menu;
 
 public class Equilatero extends Triangulo {
 

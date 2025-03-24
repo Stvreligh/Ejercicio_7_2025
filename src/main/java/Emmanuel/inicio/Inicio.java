@@ -1,9 +1,9 @@
-package alberto.inicio;
+package Emmanuel.inicio;
 
-import alberto.util.ReadUtil;
-import alberto.vista.Consola;
-import alberto.vista.Menu;
-import alberto.vista.Ventana;
+import Emmanuel.util.ReadUtil;
+import Emmanuel.vista.Consola;
+import Emmanuel.vista.Menu;
+import Emmanuel.vista.Ventana;
 import org.gerdoc.vista.Ejecutable;
 
 public class Inicio {
@@ -16,6 +16,7 @@ public class Inicio {
     boolean flag=true;
     int opcion=0;
     Ejecutable ejecutable=null;
+        System.out.println("Hola Emmanuel 2");
     while(flag)
     {
         ejecutable=null;

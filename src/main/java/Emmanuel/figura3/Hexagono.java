@@ -1,6 +1,6 @@
-package alberto.figura3;
+package Emmanuel.figura3;
 
-import alberto.figura.Pentagono;
+import Emmanuel.figura.Pentagono;
 
 public class Hexagono extends Pentagono {
     public Hexagono(){}
